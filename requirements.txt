@@ -1,0 +1,7 @@
+requests
+yfinance
+pyshorteners
+google-generativeai
+pillow
+Flask
+python-telegram-bot
